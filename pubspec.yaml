@@ -1,0 +1,5 @@
+name:  droneDemo
+description:  A sample application to figure out how drone.io works
+
+dependencies:
+  unittest: any
